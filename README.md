@@ -1,5 +1,7 @@
 # Project_Trojan_Horse
 
+<img width="897" alt="Screenshot 2024-02-12 at 11 09 32 PM" src="https://github.com/hbuddana/Project_Trojan_Horse/assets/65592890/9b8bb360-786a-476e-9e9d-b115db600e3b">
+
 ## Trojan Horse:  Origin
 An AI model could not only generate text but also discern whether a given piece of text was crafted by its digital hands? Thus, the idea of Project Trojan Horse was conceived – a tool that would read the contents of a text file, extract its essence in the form of the first 50 words, and then pose a question to ChatGPT: "Did you create this?"
 
