@@ -5,8 +5,9 @@ A Python script using ProGPT and ChatGPT to ask AI if the first 50 words of a te
 
 ## Imports:
 
-os: Facilitates interactions with the operating system, such as accessing files and directories.
-subprocess: Enables running external commands and processes from within the Python code.
+- os: Facilitates interactions with the operating system, such as accessing files and directories.
+
+- subprocess: Enables running external commands and processes from within the Python code.
 ## Functions:
 
 ### 1. read_text_file(file_path, num_words=50):
