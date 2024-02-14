@@ -53,3 +53,12 @@ Prints ChatGPT's response.
 
 ![Trojan_GUI](https://github.com/hbuddana/Project_Trojan_Horse/assets/65592890/0b8da198-1f7a-4686-8394-5a808a85f707)
 
+# Simple Web application using Streamlit
+``` project_trojan_Streamlit``` this script creates a Streamlit app that provides a user-friendly interface for interacting through file uploads, making it easy to understand and use. 
+
+After installing the necessary libraries listed in the script. Use the following command, so that it creates a local web app
+
+``` streamlit run project_trojan_Streamlit```
+
+![Trogan_streamlit](https://github.com/hbuddana/Project_Trojan_Horse/assets/65592890/883e1cb2-cebb-48cf-be91-044da9769190)
+
